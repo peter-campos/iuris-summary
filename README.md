@@ -94,3 +94,11 @@ Private project. Source code not publicly available.
 Developed and maintained by the author. Currently in active production use by a law firm.
 
 This deployment is a **demo environment** intended to showcase technical capabilities.
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Peter%20Campos-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peter-campos)
+[![Email](https://img.shields.io/badge/Email-peter.campos.leon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter.campos.leon@gmail.com)
+
