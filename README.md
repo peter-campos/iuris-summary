@@ -14,6 +14,8 @@
 
 Whether you're a solo attorney, a small firm, or a large legal team, IURIS scales to your process without forcing you to change it.
 
+> ⚠️ IURIS was not originally designed to be bilingual. Some parts of the interface may appear in Spanish and English simultaneously.
+
 ---
 
 ## ✨ Features
