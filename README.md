@@ -88,11 +88,7 @@ File storage is handled through the **Microsoft Graph API** — when a case is c
 
 ## 📸 Screenshots
 
-<img width="300" src="https://github.com/user-attachments/assets/94ec86da-6a58-4fee-9b87-c3814e7a6dfb" />
-<img width="300" src="https://github.com/user-attachments/assets/a2ccb075-db41-454a-a965-db34b6d0208e" />
-<img width="300" src="https://github.com/user-attachments/assets/5f1b7dad-dfd3-4b13-9361-8da985ef77f1" />
-<img width="300" src="https://github.com/user-attachments/assets/fe277c1e-324f-4313-a502-9cef62493292" />
-<img width="300" src="https://github.com/user-attachments/assets/5236ec15-b167-433d-af83-9fb9e41a7f52" />
+![ezgif-5c11051d0926eb97](https://github.com/user-attachments/assets/38cf12ea-6d84-48cf-836e-c0af4e8a760a)
 
 ---
 
