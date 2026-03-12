@@ -70,7 +70,7 @@ File storage is handled through the **Microsoft Graph API** — when a case is c
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FBE?style=for-the-badge&logo=railway)](https://iuris-porfolio.up.railway.app/login)
 
-**Demo credentials — user:** `demo` **/ password:** `demo`
+**Demo credentials — user:** `demo` **/ password:** `WelcomeDemo2026`
 
 ---
 
