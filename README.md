@@ -83,6 +83,7 @@ File storage is handled through the **Microsoft Graph API** — when a case is c
 - [ ] 🤖 AI-powered legal assistant — RAG architecture combining an LLM with case-specific context retrieved from a Qdrant vector database. Attorneys and staff will interact with cases through a natural language chat interface — querying case status, retrieving documents, creating tasks or scheduling events conversationally. The assistant is exposed via MCP, with the AI layer implemented in Python
 - [ ] 📁 Google Workspace integration
 - [ ] 📱 Mobile-friendly responsive redesign
+- [ ] 🌐 Full bilingual support — English / Spanish
 
 ---
 
