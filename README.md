@@ -70,7 +70,7 @@ File storage is handled through the **Microsoft Graph API** — when a case is c
 
 🌐 Live demo available — explore the full feature set with the credentials below.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-7B2FBE?style=for-the-badge&logo=railway)](https://iuris-porfolio.up.railway.app/login)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0056b3?style=for-the-badge&logo=scaleway&logoColor=white)](https://iuris.peter-campos.site/login)
 
 **Demo credentials — user:** `demo` **/ password:** `WelcomeDemo2026`
 
